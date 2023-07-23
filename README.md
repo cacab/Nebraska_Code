@@ -2,6 +2,7 @@
 
 <img width="1147" alt="Screenshot 2023-07-23 at 12 04 41 PM" src="https://github.com/cacab/Nebraska_Code/assets/46205451/3b5caba7-6de2-4278-b85b-92b21f4e9aa4">
 
+On 07/20/2023 I had the honor of kicking off Nebraska.code() as the first keynote speaker of the week. Below is a synopsis of my talk and my slides can be found [here](https://github.com/cacab/Nebraska_Code/blob/main/Nebraska_Code.pdf). 
 
 ## Description / Abstract:
 Attendees will leave with a complete understanding of how open-source works and how to maintain and contribute to open-source projects. This talk is of value to open-source maintainers and contributors or anyone interested in contributing to an open-source project.
